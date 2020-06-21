@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>季辛屯の猫🎈</title>
+  
+  <subtitle>Hello Jerry</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://itomstudio.github.io/"/>
+  <updated>2020-06-21T12:10:40.478Z</updated>
+  <id>https://itomstudio.github.io/</id>
+  
+  <author>
+    <name>Jerry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>k近邻原理</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-k-jin-lin-yuan-li/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-k-jin-lin-yuan-li/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:10:40.478Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;a href=&quot;https://www.jianshu.com/p/3e1d318b76aa&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;返回目录&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;K近邻原理&quot;&gt;&lt;a href=&quot;#K近邻原理&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://itomstudio.github.io/categories/Machine-Learning/"/>
+    
+    
+      <category term="k近邻" scheme="https://itomstudio.github.io/tags/k%E8%BF%91%E9%82%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>逻辑斯蒂模型</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-luo-ji-si-di-mo-xing/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-luo-ji-si-di-mo-xing/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:12:22.519Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;a href=&quot;https://www.jianshu.com/p/3e1d318b76aa&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;返回目录&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;逻辑斯蒂&quot;&gt;&lt;a href=&quot;#逻辑斯蒂&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://itomstudio.github.io/categories/Machine-Learning/"/>
+    
+    
+      <category term="逻辑斯蒂模型" scheme="https://itomstudio.github.io/tags/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>感知机</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-xian-xing-fen-lei-mo-xing-gan-zhi-ji/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-xian-xing-fen-lei-mo-xing-gan-zhi-ji/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:12:16.062Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;a href=&quot;https://www.jianshu.com/p/3e1d318b76aa&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;返回目录&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;感知机&quot;&gt;&lt;a href=&quot;#感知机&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://itomstudio.github.io/categories/Machine-Learning/"/>
+    
+    
+      <category term="感知机" scheme="https://itomstudio.github.io/tags/%E6%84%9F%E7%9F%A5%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灰度预测</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-hui-du-yu-ce-chu-ren-zhi/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-hui-du-yu-ce-chu-ren-zhi/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:12:28.432Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;来源:&lt;a href=&quot;https://blog.csdn.net/wuli_dear_wang/article/details/80587650&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;灰度预测&lt;/a&gt;&lt;/p&gt;
+&lt;h5
+        
+      
+    
+    </summary>
+    
+    
+      <category term="statistic" scheme="https://itomstudio.github.io/categories/statistic/"/>
+    
+    
+      <category term="GM" scheme="https://itomstudio.github.io/tags/GM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>支持向量机SVM</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-zhi-chi-xiang-liang-ji-svm/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-zhi-chi-xiang-liang-ji-svm/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:11:21.043Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#&lt;a href=&quot;https://www.jianshu.com/p/3e1d318b76aa&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;返回目录&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;支持向量机&quot;&gt;&lt;a href=&quot;#支持向量机&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://itomstudio.github.io/categories/Machine-Learning/"/>
+    
+    
+      <category term="SVM" scheme="https://itomstudio.github.io/tags/SVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工程小知识</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-gong-cheng-xiao-zhi-shi/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-gong-cheng-xiao-zhi-shi/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:12:31.272Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;main-loop&quot;&gt;&lt;a href=&quot;#main-loop&quot; class=&quot;headerlink&quot; title=&quot;main loop&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/28130949&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="project" scheme="https://itomstudio.github.io/categories/project/"/>
+    
+    
+      <category term="loop" scheme="https://itomstudio.github.io/tags/loop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Camelyon Challenge:癌症细胞区域检测_数据预处理_ASAP</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-camelyon-challenge-yan-zheng-xi-bao-qu-yu-jian-ce-shu-ju-yu-chu-li-asap/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-camelyon-challenge-yan-zheng-xi-bao-qu-yu-jian-ce-shu-ju-yu-chu-li-asap/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:11:07.810Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;h3 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Big Data" scheme="https://itomstudio.github.io/categories/Big-Data/"/>
+    
+    
+      <category term="图片处理" scheme="https://itomstudio.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《统计学习方法》李航老师</title>
+    <link href="https://itomstudio.github.io/2020/06/06/j-xiao-lan-shu-tong-ji-xue-xi-fang-fa-zong-ru-kou/"/>
+    <id>https://itomstudio.github.io/2020/06/06/j-xiao-lan-shu-tong-ji-xue-xi-fang-fa-zong-ru-kou/</id>
+    <published>2020-06-05T16:00:00.000Z</published>
+    <updated>2020-06-21T12:12:07.457Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;理论学习:&lt;br&gt;  学习博客: &lt;a href=&quot;https://www.pkudodo.com/&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://itomstudio.github.io/categories/Machine-Learning/"/>
+    
+    
+      <category term="统计学习方法" scheme="https://itomstudio.github.io/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些想法</title>
+    <link href="https://itomstudio.github.io/2020/04/27/2020-04-27-flags/"/>
+    <id>https://itomstudio.github.io/2020/04/27/2020-04-27-flags/</id>
+    <published>2020-04-27T02:16:27.000Z</published>
+    <updated>2020-06-21T11:33:33.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;建立经贸动物保护教育社区&lt;br&gt; 社区功能：社团活动记录，社团历史，招新，注册登录，评论，推荐老师模块，快速导航：教务系统，学校主页&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Flags" scheme="https://itomstudio.github.io/categories/Flags/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ffmpeg常用命令</title>
+    <link href="https://itomstudio.github.io/2020/04/26/2020-04-26-ffmpeg-chang-yong-ming-ling/"/>
+    <id>https://itomstudio.github.io/2020/04/26/2020-04-26-ffmpeg-chang-yong-ming-ling/</id>
+    <published>2020-04-26T01:18:06.000Z</published>
+    <updated>2020-06-21T11:33:33.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;ffmpeg常用命令&quot;&gt;&lt;a href=&quot;#ffmpeg常用命令&quot; class=&quot;headerlink&quot; title=&quot;ffmpeg常用命令&quot;&gt;&lt;/a&gt;ffmpeg常用命令&lt;/h3&gt;&lt;h5 id=&quot;1-抽取全部帧&quot;&gt;&lt;a href=&quot;#1-抽取全部帧&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工具包" scheme="https://itomstudio.github.io/categories/%E5%B7%A5%E5%85%B7%E5%8C%85/"/>
+    
+    
+      <category term="ffmpeg" scheme="https://itomstudio.github.io/tags/ffmpeg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue写组件流程</title>
+    <link href="https://itomstudio.github.io/2020/04/26/2020-04-26-vue-xie-zu-jian-liu-cheng/"/>
+    <id>https://itomstudio.github.io/2020/04/26/2020-04-26-vue-xie-zu-jian-liu-cheng/</id>
+    <published>2020-04-26T01:11:55.000Z</published>
+    <updated>2020-06-21T11:33:33.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;vue写组件流程&quot;&gt;&lt;a href=&quot;#vue写组件流程&quot; class=&quot;headerlink&quot; title=&quot;vue写组件流程&quot;&gt;&lt;/a&gt;vue写组件流程&lt;/h3&gt;&lt;h4 id=&quot;一-下载框架&quot;&gt;&lt;a href=&quot;#一-下载框架&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://itomstudio.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="vue组件" scheme="https://itomstudio.github.io/tags/vue%E7%BB%84%E4%BB%B6/"/>
+    
+      <category term="Element UI" scheme="https://itomstudio.github.io/tags/Element-UI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ToolKit</title>
+    <link href="https://itomstudio.github.io/2020/04/06/2020-04-06-toolkit/"/>
+    <id>https://itomstudio.github.io/2020/04/06/2020-04-06-toolkit/</id>
+    <published>2020-04-06T05:17:19.000Z</published>
+    <updated>2020-06-21T11:38:31.563Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;常用工具超链接&quot;&gt;&lt;a href=&quot;#常用工具超链接&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工具包" scheme="https://itomstudio.github.io/categories/%E5%B7%A5%E5%85%B7%E5%8C%85/"/>
+    
+    
+      <category term="ToolKit" scheme="https://itomstudio.github.io/tags/ToolKit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://itomstudio.github.io/2020/04/06/2020-04-06-ce-shi-wen-zhang/"/>
+    <id>https://itomstudio.github.io/2020/04/06/2020-04-06-ce-shi-wen-zhang/</id>
+    <published>2020-04-06T01:36:40.000Z</published>
+    <updated>2020-06-21T11:33:33.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;1、&lt;a href=&quot;###1、王强老师在北京大学演讲&quot;&gt;王强老师在北京大学演讲&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2、&lt;a href=&quot;###2、《中国合伙人》摘抄&quot;&gt;《中国合伙人》摘抄&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3、&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="https://itomstudio.github.io/categories/Markdown/"/>
+    
+    
+      <category term="测试" scheme="https://itomstudio.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="Markdown" scheme="https://itomstudio.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://itomstudio.github.io/2020/04/04/hello-world/"/>
+    <id>https://itomstudio.github.io/2020/04/04/hello-world/</id>
+    <published>2020-04-03T16:00:00.000Z</published>
+    <updated>2020-06-21T11:33:33.038Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://itomstudio.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://itomstudio.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
